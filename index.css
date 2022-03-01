@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body{
+	font-family: "Open Sans", sans-serif;
+	background-image: url(./images/bg6.png);
+	background-repeat: no-repeat;
+}
+
+
+.navbar{
+	background-color: transparent;
+}
+
+#navbrand{
+	color: black;
+}
+
+nav>button{
+	background-color: white;
+	color: white;
+}
+
+#collapse{
+	background-color: white;
+	color: white;
+}
+
+#foot{
+	background-color: #262626;
+}
+
+#navlist{
+	background-color: #262626;
+	color: white;
+}
+
+.breadcrumb > .breadcrumb-item{
+   color: white;
+}
